@@ -1,0 +1,15 @@
+{
+  "name": "com.alfafawolf.deltatools",
+  "displayName": "Delta Tools",
+  "version": "0.0.0",
+  "unity": "2019.4",
+  "description": "An extension library.",
+  "keywords": [
+    "tools",
+    "extensions"
+  ],
+  "author": {
+    "name": "Gabriel Alejandro",
+    "url": "https://github.com/AlfafaWolf"
+  }
+}
